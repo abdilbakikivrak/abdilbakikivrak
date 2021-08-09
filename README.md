@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  embedded system programming
 - 💞️ I’m looking to collaborate on embedded system programming and cyber security 
 - 📫 How to reach me,see from any online platform .com/abdilbakikivrak 
-I'm a 20-year-old mechatronics engineering student. i live in turkey 
+I'm a 22-year-old mechatronics engineering student. i live in turkey 
 
 
 <!---
