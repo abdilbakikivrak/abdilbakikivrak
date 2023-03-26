@@ -1,7 +1,7 @@
 <img src = "https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="241" height="241">
-### Hey there, I'm Abdilbaki :smile: :tr:
+## I'm Abdilbaki :smile: :tr:
 
-- [] I'm a Mechatronics Engineering student :electric_plug:
+- [] I'm a Mechatronics Engineering student :electric_plug::computer:
 
 
 
