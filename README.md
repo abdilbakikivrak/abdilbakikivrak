@@ -5,7 +5,7 @@
 - 📫 How to reach me,see from any online platform .com/abdilbakikivrak 
 I'm a 22-year-old mechatronics engineering student. i live in turkey 
 
-
+  - [x] Tak 2
 <!---
 abdilbakikivrak/abdilbakikivrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
