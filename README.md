@@ -2,12 +2,17 @@
 ### Hey there, I'm Abdilbaki :smile:
 
 
+
+
+
 ## Mecahatronics Developer 
-<font color= "redblue"> there is action every dayy!! '<code/>'
+<font color= "darkblue"> there is action every dayy!! '<code/>'
 </font>
 
 ### Reach aout the me 
-[[youtube]<img src="<img  width="23" src="https://unpkg.com/simple-icons@v8/icons/youtube.svg" align="left"/>"][[twitter]<img src="<img  width="23" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left"/>"][[linkedin]<img src="<img  width="23" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"/>"]
+[youtube] : https://www.youtube.com/@abdilbakikivrak
+[twitter] : https://twitter.com/abdilbakikivrak
+[linkedin] : https://www.linkedin.com/in/abdilbakikivrak
 
 <br />
 <br />
@@ -29,9 +34,9 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abdilbakikivrak&layout=compact" >
 </details>
 
-[youtube] : https://www.youtube.com/@abdilbakikivrak
-[twitter] : https://twitter.com/abdilbakikivrak
-[linkedin] : https://www.linkedin.com/in/abdilbakikivrak/
+
+
+
 <!---
 abdilbakikivrak/abdilbakikivrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
