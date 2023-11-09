@@ -6,13 +6,11 @@
 
 
 ## Mechatronics Developer 
-<font color= "darkblue"> there is action every dayy!! '<code/>'
+<font color= "darkblue"> there is tech  every dayy!! '<code/>'
 </font>
 
 ### Reach aout the me 
-[youtube] : https://www.youtube.com/@abdilbakikivrak
-[twitter] : https://twitter.com/abdilbakikivrak
-[linkedin] : https://www.linkedin.com/in/abdilbakikivrak
+
 
 <br />
 <br />
