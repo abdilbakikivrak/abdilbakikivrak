@@ -1,15 +1,5 @@
-<img src = "https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="241" height="241">
-## I'm Abdilbaki :smile: :tr:
-
-- [] I'm a Mechatronics Engineering student :electric_plug::computer:
-
-
-
-## Mechatronics Developer 
-<font color= "darkblue"> there is tech  every dayy!! '<code/>'
-</font>
-
-### Reach aout the me 
+ :tr:
+ 
 
 
 <br />
